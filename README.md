@@ -19,7 +19,7 @@ More details here: https://modelcontextprotocol.io/introduction
 ----------
 
 ## Purpose of This Repository
-This repository focuses on applying MCP to cybersecurity use cases.
+This repository is an experiment focusing on MCP for cybersecurity.
 
 
 ----------
