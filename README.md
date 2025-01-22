@@ -2,6 +2,8 @@
 
 ![MIT License](https://img.shields.io/badge/license-MIT-green)
 
+A full write-up can be found here: https://blog.securitybreak.io/building-a-threat-intelligence-genai-reporter-with-orkl-and-claude-a0ae2e969693
+
 A Model Context Protocol (MCP) server for querying the ORKL API. This server provides tools for fetching and analyzing threat reports, threat actors, and sources. It integrates smoothly with MCP-compatible applications.
 
 ---
